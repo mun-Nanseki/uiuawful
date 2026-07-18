@@ -8,11 +8,16 @@
   # that tone of gray
   # color ? int
   Grayscale ← |1 [⟜⟜∘]
+  # oh right people spell that word
+  # differently outside america
+  # color ? int
+  Greyscale = Grayscale
+
   # turn a hexadecimal color into a standard
   # uiua color (do not include the #)
   # color ? hexcode
   # Track caller!
-  HexToColor ← |1 (
+  ParseHex ← |1 (
     ⊃(⧻|↥⊃=₃=₆⊸⧻)
     ⍤$"Argument 1 must be a length 3 or 6 string, but its length is _"
     ⨬(⌅(÷₁₅⋕₁₆↯3_1|°⋕₁₆×₁₅)   # 3 digit
@@ -59,5 +64,7 @@
   Gasbian ← ⊂ ⇌↘2Lesbian ↙2↘4⇌Gay
   # i once fell for someone asking if "mama
   # tonsi" could mean "clear" in toki pona
-  Transparent = row(joi1/4)Trans
+  Transluscent = row(joi1/2)Trans
+  # this joke is probably extremely overdone
+  Transparent = row(joi0)Trans
 └─╴
