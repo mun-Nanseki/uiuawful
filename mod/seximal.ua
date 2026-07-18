@@ -1,4 +1,4 @@
-# Seximal library by jan Nanseki
+# Seximal library by mun Nanseki
 # why is every seximalist's name Jan?
 
 # a pile of functions related to jan Misali's base-six naming scheme

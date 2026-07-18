@@ -1,4 +1,4 @@
-# Colors library by jan Nanseki
+# Colors library by mun Nanseki
 # for all your needs relating to arrays of three
 # values between 0 and 1 (now with unpride!)
 

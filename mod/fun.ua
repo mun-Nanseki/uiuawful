@@ -1,4 +1,4 @@
-# Fun library by jan Nanseki
+# Fun library by mun Nanseki
 # this library will never be useful
 
 # WARNING: do not take anything in this module seriously

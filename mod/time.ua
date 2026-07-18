@@ -1,4 +1,4 @@
-# Time library by jan Nanseki
+# Time library by mun Nanseki
 # smth smth january wheneverth 2038
 
 # time related things

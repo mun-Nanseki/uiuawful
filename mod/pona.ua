@@ -1,4 +1,4 @@
-# Pona library by jan Nanseki
+# Pona library by mun Nanseki
 # because the venn diagram of uiua people and
 # tokiponists is a circle in a larger circle
 
