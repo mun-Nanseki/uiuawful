@@ -32,7 +32,8 @@ demigirl flag is a good idea this repo is for bad ideas YOU SCAMMER [roll a 131-
 
 ## Fun
 the worst jokes in the entire repo
-- `Bogosort`: me when my implementation of a sorting algorithm uses an O(nlogn) algorithm *twice* and *still* manages to be O(n·n!)
+- `Sort.Bogosort`: me when my implementation of a sorting algorithm uses an O(nlogn) algorithm *twice* and *still* manages to be O(n!n)
+- `Sort.MiracleSort`: O(infinity)
 - `NeedlesslyComplexFlip`: `:` used to do smth in this language
 - `No`: just don't
 - `ThisMacroDoesNothing!`: take a guess

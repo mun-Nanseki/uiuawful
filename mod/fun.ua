@@ -3,17 +3,24 @@
 
 # WARNING: do not take anything in this module seriously
 ┌─╴Fun
-  # BOGOSORTTTTT
-  #
-  # shuffles an array until it sorts itself
-  # array ? array
-  Bogosort ← |1 ⍢(°⍆|¬≍⊸⍆)
+  ┌─╴Sort
+    # BOGOSORTTTTT
+    # array ? array
+    Bogosort ← |1 ⍢(°⍆|¬≍⊸⍆)
 
+    # wait for cosmic rays to flip enough bits in
+    # memory to sort the list
+    MiracleSort ← |1 ⌅(
+      ⍢(∘|¬≍⊸⍆)
+    | ⍢(∘|¬≍⊸°⍆)
+    )
+  └─╴
   # bacdi but objectively worse
+  # Deprecated! This joke barely makes sense anymore
   # ment argu ? argu ment
   NeedlesslyComplexFlip ← |2.2 °□⊙°□⊃(⊡0|⊡1)⇌{⊙∘}
 
-  # EMPTY THE STACK AND DIES
+  # EMPTY THE STACK AND DIE
   # ? everything
   # Track caller!
   No ← ⍢◌1 # |∞.0
@@ -23,5 +30,5 @@
 
   # if anyone remembers which xkcd
   # this joke is from please lmk
-  RNG = 4
+  RNG ← 4
 └─╴
