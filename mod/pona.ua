@@ -8,7 +8,7 @@
   ┌─╴Words
     # all words listed by linku as core
     Core ← {
-      "a" "akesi" "ala" "alase" "ale" "anpa" "ante" "anu" "awen" "e" "en" "esun"
+      "a" "akesi" "ala" "alasa" "ale" "anpa" "ante" "anu" "awen" "e" "en" "esun"
       "ijo" "ike" "ilo" "insa" "jaki" "jan" "jelo" "jo" "kala" "kalama" "kama"
       "kasi" "ken" "kepeken" "kili" "kiwen" "ko" "kon" "kule" "kulupu" "kute"
       "la" "lape" "laso" "lawa" "len" "lete" "li" "lili" "linja" "lipu" "loje"

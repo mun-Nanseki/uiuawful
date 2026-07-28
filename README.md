@@ -1,7 +1,7 @@
 # uiuawful
 a random assortment of uiua libraries by someone who can barely code in normal languages
 
-pr whatever idc
+feel free to pr idc
 
 idk how to document this thing good
 
@@ -27,7 +27,7 @@ work with groups of three numbers from 0 to 1
 ### Unpride
 demigirl flag is a good idea this repo is for bad ideas YOU SCAMMER [roll a 131-sided die] NA-
 - `Rtasn`: exactly what it sounds like
-- `Gasbian`: what if we combine yuri and yaoi into a ship in which a girl likes a guy
+- `Gasbian`: what if we combine yuri and yaoi into an abomination in which a girl likes a guy
 - `Translucent`, `Transparent`: i bet trans people hear this joke about as often as pan people hear jokes regarding kitchenware
 
 ## Fun
@@ -43,7 +43,7 @@ uiua colors :D
 - `Text`, `Comment`, `Background`, `LitNum`, `LitChar`: a few basic things
 - `Noad`, `Monad`, `Dyad`, `Triad`, `Tetrad`: the tip of your funny wrench
 - `MonadM`, `DyadM`, `TriadM`: and its body
-- `Text,<`, `LitChar<`, `Background<`: light mode colors
+- `Text,<`, `LitChar,<`, `Background,<`: light mode colors
 
 ## Pona
 toki pona should be lowercase, 0 out of 10
