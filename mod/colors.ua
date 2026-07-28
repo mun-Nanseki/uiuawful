@@ -11,7 +11,7 @@
   # oh right people spell that word
   # differently outside america
   # color ? int
-  Greyscale = Grayscale
+  Greyscale ← Grayscale
 
   # turn a hexadecimal color into a standard
   # uiua color (do not include the #)
@@ -27,34 +27,34 @@
 └─╴
 
 # bc normal uiua isn't gender enough
-#
+# 
 # exact colors will probably be off, if you
 # want them to not be that then open a pr
 # to change it i guess
----ExtraPride
+┌─╴ExtraPride
   # that flag i sometimes wear on
   # my pfp despite being amab
-  Demigirl = [
+  Demigirl ← [
     1/2_1/2_1/2
     3/4_3/4_3/4
-    pic,1Trans
+    ⊡₁Trans
     1_1_1
-    pic,1Trans
+    ⊡₁Trans
     3/4_3/4_3/4
     1/2_1/2_1/2
   ]
   # an a press is an a press you
   # can't say it's only a demi
-  Demiboy = [
+  Demiboy ← [
     1/2_1/2_1/2
     3/4_3/4_3/4
-    pic,0Trans
+    ⊡₀Trans
     1_1_1
-    pic,0Trans
+    ⊡₀Trans
     3/4_3/4_3/4
     1/2_1/2_1/2
   ]
----
+└─╴
 
 # bad pride flag ideas
 ┌─╴Unpride
@@ -64,7 +64,7 @@
   Gasbian ← ⊂ ⇌↘2Lesbian ↙2↘4⇌Gay
   # i once fell for someone asking if "mama
   # tonsi" could mean "clear" in toki pona
-  Transluscent = row(joi1/2)Trans
+  Transluscent ← ≡(⊂1/2)Trans
   # this joke is probably extremely overdone
-  Transparent = row(joi0)Trans
+  Transparent ← ≡(⊂0)Trans
 └─╴
