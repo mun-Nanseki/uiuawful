@@ -7,16 +7,19 @@
     # BOGOSORTTTTT
     # array ? array
     Bogosort ← |1 ⍢(°⍆|¬≍⊸⍆)
+    Bogo     ← Bogosort
+
+    # don't buy sorted arrays off temu
+    TemuSort ← ⇡⧻
+    Temu     ← TemuSort
 
     # wait for cosmic rays to flip enough bits in
     # memory to sort the list
-    MiracleSort ← |1 ⌅(
-      ⍢(∘|¬≍⊸⍆)
-    | ⍢(∘|¬≍⊸°⍆)
-    )
+    MiracleSort ← |1 ⌅(⍢(∘|¬≍⊸⍆)⍢(∘|¬≍⊸°⍆))
+    Miracle     ← MiracleSort
   └─╴
   # bacdi but objectively worse
-  # Deprecated! This joke barely makes sense anymore
+  # Deprecated! This joke barely makes sense anymore, why would you still make it?
   # ment argu ? argu ment
   NeedlesslyComplexFlip ← |2.2 °□⊙°□⊃(⊡0|⊡1)⇌{⊙∘}
 
