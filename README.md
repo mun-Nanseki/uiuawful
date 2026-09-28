@@ -34,7 +34,6 @@ demigirl flag is a good idea this repo is for bad ideas YOU SCAMMER [roll a 131-
 the worst jokes in the entire repo
 - `Sort.Bogosort`: me when my implementation of a sorting algorithm uses an O(nlogn) algorithm *twice* and *still* manages to be O(n!n)
 - `Sort.MiracleSort`: O(infinity)
-- `NeedlesslyComplexFlip`: `:` used to do smth in this language
 - `No`: just don't
 - `ThisMacroDoesNothing!`: take a guess
 - `RNG`: which xkcd was this joke from again
@@ -49,6 +48,7 @@ uiua colors :D
 ## Pona
 toki pona should be lowercase, 0 out of 10
 - `Words.Core`, `Words.Common`, `Words.Uncommon`, `Words.Obscure`: linku categories of words
+- `Words,26`, `Words,25`: words 
 - `ParseNum`: parse an abbreviated number in the original number system in which AMLTW is 128
 - `ParseNNP`: nasin nanpa pona
 - `Nanseki,131`: roll a 131-sided die Nanseki's name

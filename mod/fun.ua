@@ -18,10 +18,6 @@
     MiracleSort ← |1 ⌅(⍢(∘|¬≍⊸⍆)⍢(∘|¬≍⊸°⍆))
     Miracle     ← MiracleSort
   └─╴
-  # bacdi but objectively worse
-  # Deprecated! This joke barely makes sense anymore, why would you still make it?
-  # ment argu ? argu ment
-  NeedlesslyComplexFlip ← |2.2 °□⊙°□⊃(⊡0|⊡1)⇌{⊙∘}
 
   # EMPTY THE STACK AND DIE
   # ? everything
