@@ -9,6 +9,7 @@
 # when it's loaded
 
 ~ "mod/card" ~ Card
+~ "mod/dice" ~ Dice
 ~ "mod/colors" ~ Colors ExtraPride Unpride
 ~ "mod/fun" ~ Fun
 ~ "mod/plt" ~ PltUiua

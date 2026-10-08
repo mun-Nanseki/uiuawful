@@ -5,6 +5,7 @@
 
 ~ "mod/card.ua" ~ Card
 ~ "mod/colors.ua" ~ Unpride
+~ "mod/dice" ~ Dice
 ~ "mod/fun.ua" ~ Fun
 ~ "mod/pona.ua" ~ Pona
 ~ "mod/seximal.ua" ~ Seximal
@@ -13,10 +14,8 @@
 # random int less than unexian
 °□ Seximal.FourDigitName⚂₁₂₉₆
 
-# Fun: print an rtasn flag and put
-# it under the thing above me
+# Fun: print an rtasn flag
 ▽₂50 ¤Unpride.Rtasn
-Fun.ThisMacroDoesNothing!Fun.NeedlesslyComplexFlip
 
 # Cards: pretty-print a hand of five
 # and determine if it's a flush
@@ -25,3 +24,7 @@ Fun.ThisMacroDoesNothing!Fun.NeedlesslyComplexFlip
 # Pona: write a random int less than
 # 10,000 in nasin nanpa pona
 ⊸°Pona.ParseNNP⚂₁₀₀₀₀
+
+# Dice: sum ten 6-sided dice, a 129-
+# sided die, and a constant 12
+Dice!(⊸Sum RollMany) "10d6+1d129+12"

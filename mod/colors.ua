@@ -25,6 +25,7 @@
     )(-₁÷₃⊸⧻)
   )
 └─╴
+Colours ← Colors
 
 # bc normal uiua isn't gender enough
 # 
@@ -32,28 +33,12 @@
 # want them to not be that then open a pr
 # to change it i guess
 ┌─╴ExtraPride
-  # that flag i sometimes wear on
-  # my pfp despite being amab
-  Demigirl ← [
-    1/2_1/2_1/2
-    3/4_3/4_3/4
-    ⊡₁Trans
-    1_1_1
-    ⊡₁Trans
-    3/4_3/4_3/4
-    1/2_1/2_1/2
-  ]
   # an a press is an a press you
   # can't say it's only a demi
-  Demiboy ← [
-    1/2_1/2_1/2
-    3/4_3/4_3/4
-    ⊡₀Trans
-    1_1_1
-    ⊡₀Trans
-    3/4_3/4_3/4
-    1/2_1/2_1/2
-  ]
+  Demigirl ← [1/2_1/2_1/2 3/4_3/4_3/4 ⊡₁Trans 1_1_1 ⊡₁Trans 3/4_3/4_3/4 1/2_1/2_1/2]
+  # an a press is an a press you
+  # can't say it's only a demi
+  Demiboy ← [1/2_1/2_1/2 3/4_3/4_3/4 ⊡₀Trans 1_1_1 ⊡₀Trans 3/4_3/4_3/4 1/2_1/2_1/2]
 └─╴
 
 # bad pride flag ideas
@@ -64,7 +49,7 @@
   Gasbian ← ⊂ ⇌↘2Lesbian ↙2↘4⇌Gay
   # i once fell for someone asking if "mama
   # tonsi" could mean "clear" in toki pona
-  Transluscent ← ≡(⊂1/2)Trans
+  Transluscent ← ≡(˜⊂1/2)Trans
   # this joke is probably extremely overdone
-  Transparent ← ≡(⊂0)Trans
+  Transparent ← ≡(˜⊂0)Trans
 └─╴
